@@ -2,7 +2,8 @@
 
 # Bruce's Portfolio Projects
 
-## Data Analysis in Inventory Management: Real Case in Managing a Warehouse
+## [Data Analysis in Inventory Management: Real Case in Managing a Warehouse (Excel, SQL, R, PowerBI)](inventory_management_report.html)
+Using data to make sure that the inventory is well stocked for the future.
 
 
 ## [How They Became Rich: Forbes Billionaires Report (Excel, SQL)](forbes_billionaires_report.html)
