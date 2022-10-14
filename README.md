@@ -5,7 +5,7 @@
 ## [Data Analysis in Inventory Management: Real Case in Managing a Warehouse (Excel, SQL, R, PowerBI)](inventory_management_report.html)
 Using data to make sure that the inventory is well stocked for the future.
 
-<img src="/images/inventory.png" width="40%">
+<img src="/images/inventory.jpg.webp" width="40%">
 
 ## [How They Became Rich: Forbes Billionaires Report (Excel, SQL)](forbes_billionaires_report.html)
 Data Analysis on how the billionaires had amassed their great wealth. 
