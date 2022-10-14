@@ -3,7 +3,7 @@
 # Bruce's Portfolio Projects
 
 ## [Data Analysis in Inventory Management: Real Case in Managing a Warehouse (Excel, SQL, R, PowerBI)](inventory_management_report.html)
-Using data to make sure that the inventory is well stocked for the future.
+Using data to make sure that the inventory is well stocked for the future!
 
 <img src="/images/inventory.jpg.webp" width="60%">
 
